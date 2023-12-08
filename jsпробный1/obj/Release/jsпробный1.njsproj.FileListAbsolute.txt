@@ -1,0 +1,3 @@
+C:\Users\Кирилл\source\repos\jsпробный1\jsпробный1\obj\Release\jsпробный1.njsproj.AssemblyReference.cache
+C:\Users\Кирилл\source\repos\jsпробный1\jsпробный1\obj\Release\jsпробный1.njsproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\jsпробный1\jsпробный1\bin\Microsoft.NodejsTools.WebRole.dll
